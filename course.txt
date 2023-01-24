@@ -1,0 +1,5 @@
+IC_1001	Essential_ICT_and_Social_Computing	ICT	TECHNOLOGY
+IC_1002	Introduction_to_Computer_System_and_Operating_System	ICT	TECHNOLOGY
+IC_1003	Programming	ICT	TECHNOLOGY
+IC_1004	Information_System_Management	ICT	TECHNOLOGY
+IC_1005	Application_Laboratory	ICT	TECHNOLOGY	

@@ -1,0 +1,5 @@
+ICT		2019T00446	Sadeep		22/03/1999		192/1A,Makola	Male		0715253574	single
+ICT		2019T00469	Nipuni		03/05/1999		354/2B,Kaduwela	Female		0713632655	single
+ICT		2019T00463	Gimhan		06/06/1999		543/6A,Malabe	Male		0723463476	single
+ICT		2019T00436	Chamodi		23/09/1999		223/2C,Kandy	Female		0752327825	single
+ICT		2019T00455	Mithushan	06/12/1999		349/5A,Colombo	Male		0762287893	single

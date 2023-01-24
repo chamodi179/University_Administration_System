@@ -1,0 +1,40 @@
+Sadeep
+	A
+	S
+	B
+	D
+	A
+	8.18
+
+Nipuni
+	A
+	B
+	S
+	D
+	A
+	0.74
+
+Gimhan
+	D
+	C
+	A
+	B
+	C
+	0.07
+
+Chamodi
+	S
+	E
+	S
+	B
+	A
+	0.01
+
+Mithushan
+	A
+	A
+	B
+	D
+	E
+	0.00
+
